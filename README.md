@@ -77,7 +77,7 @@ nba_py is used to scrape nba stats from stats.nba.com. It is not included in the
 
 /path/to/your/python -m pip install nba_py
 
-Note: The nba_py library was a preferred method of scraping nba stats at the time of the creation of this project. For a more up to date scraping method, the classify_nba_stats repo on my main page.
+Note: The nba_py library was a preferred method of scraping nba stats at the time of the creation of this project. For a more up to date scraping method, see the classify_nba_stats repo on my main page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
