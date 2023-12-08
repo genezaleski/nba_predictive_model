@@ -65,15 +65,15 @@ and KNN classifers. For more, read the project spec file, "Data Mining Final Rep
 Python must be installed on this computer to execute some of the 
 Installation instructions for python can be found <a href="https://www.python.org/downloads/">here.</a>
 
-Relevant python libraries used for this project include:
-  ast
+Relevant python libraries used for this project include:<br />
+  ast 
   csv
   math
   nba_py
   os
   time
 
-nba_py is used to scrape nba stats from stats.nba.com. It is not included in the default python installation. Please install it using pip:
+nba_py is used to scrape nba stats from stats.nba.com. It is not included in the default python installation. Please install it using pip:<br />
 
   /path/to/your/python -m pip install nba_py
 
