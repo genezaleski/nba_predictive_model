@@ -66,12 +66,12 @@ Python must be installed on this computer to execute some of the
 Installation instructions for python can be found <a href="https://www.python.org/downloads/">here.</a>
 
 Relevant python libraries used for this project include:<br />
-  ast 
-  csv
-  math
-  nba_py
-  os
-  time
+  ast <br />
+  csv<br />
+  math<br />
+  nba_py<br />
+  os<br />
+  time<br />
 
 nba_py is used to scrape nba stats from stats.nba.com. It is not included in the default python installation. Please install it using pip:<br />
 
