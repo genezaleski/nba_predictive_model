@@ -66,16 +66,16 @@ Python must be installed on this computer to execute some of the
 Installation instructions for python can be found <a href="https://www.python.org/downloads/">here.</a>
 
 Relevant python libraries used for this project include:
-ast
-csv
-math
-nba_py
-os
-time
+  ast
+  csv
+  math
+  nba_py
+  os
+  time
 
 nba_py is used to scrape nba stats from stats.nba.com. It is not included in the default python installation. Please install it using pip:
 
-/path/to/your/python -m pip install nba_py
+  /path/to/your/python -m pip install nba_py
 
 Note: The nba_py library was a preferred method of scraping nba stats at the time of the creation of this project. For a more up to date scraping method, see the classify_nba_stats repo on my main page.
 
@@ -116,5 +116,5 @@ Project Link: [https://github.com/genezaleski/nba_predictive_model](https://gith
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/gene-zaleski-56b2a0175
 [product-screenshot]: images/screenshot.png
-[Python.link]: https://img.shields.io/pypi/pyversions/Django
+[Python.link]: https://img.shields.io/pypi/pyversions/Django?logo=python&logoColor=#3776AB
 [Python-url]: https://www.python.org/
